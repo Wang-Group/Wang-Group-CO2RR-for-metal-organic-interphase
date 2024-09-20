@@ -14,6 +14,7 @@ Codes The following Jupyter notebooks contain the codes used for this study:
 4. **Folder**: **20240611-S-体系-all metrics**: Contains the most important features extracted from the SHAP analysis for nine FE targets (H2, CO, CH4, C2H4, formate, acetate, EtOH, n-PrOH, and C2+ products) results for all CO2RR products written in csv files named 'shap_results-xx+
 /MLP-top-features.csv' , used to correlate with the extracted factors.
   5. **Folder**: **S-体系-逐步回归挑选出来的特征**: Contains the selected features for nine FE targets (H2, CO, CH4, C2H4, formate, acetate, EtOH, n-PrOH, and C2+ products) results written in csv files named 'Selected_features-xx' for all CO2RR products by Stepwise regression.
-  
+
+The packages and versions installed in the runtime environment are as follows:  
 
   
