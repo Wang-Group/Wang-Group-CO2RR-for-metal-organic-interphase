@@ -26,8 +26,8 @@ For those wanting to try it out: The best place to start is the Jupyter notebook
   6. numpy=1.26.4=py312h2809609_0  
   7. pandas=2.2.2=py312h1d6d2e6_1  
   8. matplotlib=3.9.1=py312h7900ff3_0  
-  9. openpyxl=3.1.5=py312h5eee18b_0**
-  
+  9. openpyxl=3.1.5=py312h5eee18b_0**  
+  Detailed environment installation files are uploaded as **environment.yml**
   
   
   
